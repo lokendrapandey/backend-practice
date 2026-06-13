@@ -1,0 +1,24 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": "node js practice",
+  "homepage": "https://github.com/lokendrapandey/backend-practice#readme",
+  "bugs": {
+    "url": "https://github.com/lokendrapandey/backend-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokendrapandey/backend-practice.git"
+  },
+  "license": "ISC",
+  "author": "lokendra pandey",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
